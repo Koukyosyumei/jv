@@ -1,9 +1,8 @@
 <h1 align="center">jv</h1>
 
 <p align="center">
-  <a href="https://github.com/h5i-dev/jv/actions/workflows/ci.yml"><img alt="CI" src="https://github.com/h5i-dev/jv/actions/workflows/ci.yml/badge.svg"></a>
-  <a href="https://github.com/h5i-dev/jv/blob/main/LICENSE"><img alt="Apache-2.0" src="https://img.shields.io/github/license/h5i-dev/jv?color=blue"></a>
-  <a href="https://github.com/h5i-dev/jv/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/h5i-dev/jv?style=social"></a>
+  <a href="https://github.com/h5i-dev/jv/actions/workflows/ci.yml"><img alt="CI" src="https://github.com/Koukyosyumei/jv/actions/workflows/ci.yml/badge.svg"></a>
+  <a href="https://github.com/h5i-dev/jv/blob/main/LICENSE"><img alt="Apache-2.0" src="https://img.shields.io/github/license/Koukyosyumei/jv?color=blue"></a>
 </p>
 
 A fast dependency toolkit for Maven projects, written in Rust.
